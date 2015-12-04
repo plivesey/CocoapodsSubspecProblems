@@ -1,0 +1,16 @@
+PODS:
+  - MyLib/Main (1.0.0)
+  - MyLib/Test (1.0.0)
+
+DEPENDENCIES:
+  - MyLib/Main (from `.`)
+  - MyLib/Test (from `.`)
+
+EXTERNAL SOURCES:
+  MyLib:
+    :path: .
+
+SPEC CHECKSUMS:
+  MyLib: 4fd3990ca2501e09fab8bb79f31ba69d732b2776
+
+COCOAPODS: 0.39.0
